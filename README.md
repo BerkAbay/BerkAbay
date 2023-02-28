@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berk Abay</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkabay&label=Profile%20views&color=0e75b6&style=flat" alt="berkabay" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkabay" alt="berkabay" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React**
@@ -19,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkabay&show_icons=true&locale=en&layout=compact" alt="berkabay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkabay&show_icons=true&locale=en" alt="berkabay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkabay&show_icons=true&theme=dark&locale=en" alt="berkabay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkabay&theme=dark" alt="berkabay" /></p>
