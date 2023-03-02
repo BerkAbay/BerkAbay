@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk Abay</h1>
 <h3 align="center">Software Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkabay" alt="berkabay" /></a> </p>
+
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **abay.berk20@gmail.com**
