@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Abay</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, Node**
 
 - 📫 How to reach me **abay.berk20@gmail.com**
 
