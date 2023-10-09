@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk Abay</h1>
-<h3 align="center">ERP Consultant & Jr.Software Developer</h3>
+<h3 align="center">ERP Specialist & Jr.Software Developer</h3>
 
 - 🌱 I’m currently learning **Node.js, Mongo, Express.js and Postman**
 
